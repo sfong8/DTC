@@ -33,4 +33,3 @@ def load_data(dataset_name):
         return load_ucr(dataset_name)
     else:
         print('Dataset {} not available! Available datasets are UCR/UEA univariate and multivariate datasets.'.format(dataset_name))
-        exit(0)

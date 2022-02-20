@@ -1,6 +1,7 @@
-keras
+keras==2.3.0
 numpy
 scikit-learn
 scipy
 statsmodels
 tslearn>=0.3.1
+tensorflow == 1.13.1
